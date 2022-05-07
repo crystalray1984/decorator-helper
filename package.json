@@ -37,7 +37,6 @@
         "collectCoverage": true
     },
     "files": [
-        "dist",
-        "src"
+        "dist"
     ]
 }
