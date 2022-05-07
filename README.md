@@ -1,4 +1,4 @@
-# decorator-helpers
+# decorator-helper
 
 Provides useful functions for creating ES6 decorators
 
