@@ -1,7 +1,7 @@
 {
     "name": "decorator-helpers",
     "version": "1.0.0",
-    "description": "help functions for create ES6 decorator",
+    "description": "Provides useful functions for creating ES6 decorators",
     "keywords": [
         "decorator"
     ],
