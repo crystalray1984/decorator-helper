@@ -16,13 +16,13 @@ Provides useful functions for creating ES6 decorators
 via npm
 
 ```
-npm i --save decorator-helpers
+npm i --save decorator-helper
 ```
 
 via yarn
 
 ```
-yarn add decorator-helpers
+yarn add decorator-helper
 ```
 
 ## API
